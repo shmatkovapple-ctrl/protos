@@ -1,3 +1,3 @@
-module proto
+module protos
 
 go 1.25.4
